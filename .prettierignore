@@ -1,0 +1,16 @@
+dist
+.eslintrc.json
+.pretterignore
+.prettierrc.json
+.mocharc.json
+package-lock.json
+package.json
+tsconfig.json
+typedoc.json
+README.md
+enunciado.txt
+commands.txt
+coverage
+.github
+docs
+sonar-project.properties
